@@ -14,27 +14,11 @@ A secure and user-friendly password generator tool that helps you generate stron
 - User-friendly interface that makes it easy to generate passwords quickly
 - Cross-browser compatibility (works on all modern browsers)
 
-### <b> Screenshots </b>
-
-![Password Generator Screenshot 1](assets/img/screenshot-docs/pc-1.png)
-
-![Password Generator Screenshot 2](assets/img/screenshot-docs/pc-2.png)
-
-## <b> Installation </b>
-
-To use the Password Generator Tool, simply visit the [Password Generator website](https://password-generator-karthik.netlify.app/) and follow the instructions to generate a new password. 
-
-If you want to run the Password Generator Tool locally, follow these steps:
-
-1. Clone the repository by running `git clone https://github.com/karthik558/password-generator.git` in your terminal
-2. Navigate to the project directory by running `cd password-generator`
-3. Open the `index.html` file in your preferred web browser
-
 ## <b> Usage </b>
 
 To generate a password using the Password Generator Tool, follow these steps:
 
-1. Go to the [Password Generator website](https://password-generator-karthik.netlify.app/)
+1. Go to the Password Generator website.
 2. Select the options for your desired password (uppercase letters, lowercase letters, numbers, and special characters)
 3. Use the slider to select the length of your desired password (between 8 and 128 characters)
 4. Click on the "Generate Password" button to generate a new password
